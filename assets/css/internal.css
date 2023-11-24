@@ -44,16 +44,26 @@
 }
 
 .wrapper .main-content__bottom {
-  height: 20vh;
+  height: 50%;
+  width: 85vw;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
 }
 
+.wrapper .main-content__bottom-spider1 {
+  height: 45%;
+}
+
 .wrapper .main-content .logo img {
+  width: 69%;
   margin-top: 50px;
   margin-left: 0;
   margin-bottom: 30px;
+}
+
+.wrapper .main-content .logo .tobey {
+  width: 50%;
 }
 
 .wrapper .main-content__top .description {

@@ -48,7 +48,7 @@ body::before {
   border: 0.5rem solid white;
   width: calc(100vw / 3 - 10%);
   width: 100%;
-  height: 70vh;
+  height: 65vh;
   position: absolute;
   transition: filter 0.5s ease-in-out;
 }
@@ -97,8 +97,7 @@ body::before {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 3rem;
-  bottom: 1.5rem;
+  bottom: 0.5rem;
   width: 100%;
 }
 
@@ -182,4 +181,14 @@ body[id^="spider-man-"] .card:not(.card--hovered) {
   width: calc(100% / 3 - 10%);
   transform-style: preserve-3d;
   transition: transform 0.4s ease-in;
+}
+
+@media (max-width: 750px) {
+  .container {
+    padding-top: 60px;
+  }
+
+  .card {
+    height: 55vh;
+  }
 }
