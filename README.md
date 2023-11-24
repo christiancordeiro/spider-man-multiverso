@@ -4,7 +4,8 @@
 ![image](https://github.com/christiancordeiro/spider-man-multiverso/assets/116993834/afbdb001-84ed-4d06-8787-a7af7c0b9635)
 
 
-
+**Atenção:**
+O projeto está no processo de responsividade, para ser adaptável a qualquer dispositivo.
 
 ## Visão geral
 Os usuários devem ser capazes de:
@@ -22,6 +23,7 @@ Esse projeto foi desenvolvido com a intenção de aprimorar as habilidades nas t
 - Marcação HTML5 semântica
 - Javascript
 - Propriedades personalizadas de CSS avançado.
+- 
 
 ## Links
 URL do site ao vivo: https://christiancordeiro.github.io/spider-man-multiverso/index.html
