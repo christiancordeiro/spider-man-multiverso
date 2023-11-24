@@ -4,8 +4,9 @@
 ![image](https://github.com/christiancordeiro/spider-man-multiverso/assets/116993834/afbdb001-84ed-4d06-8787-a7af7c0b9635)
 
 
-**Atenção:**
+**ATENÇÃO:**
 O projeto está no processo de responsividade, para ser adaptável a qualquer dispositivo.
+
 
 ## Visão geral
 Os usuários devem ser capazes de:
