@@ -183,6 +183,8 @@ body[id^="spider-man-"] .card:not(.card--hovered) {
   transition: transform 0.4s ease-in;
 }
 
+/* Responsive Menu */
+
 @media (max-width: 750px) {
   .menu__item {
     width: 10%;
