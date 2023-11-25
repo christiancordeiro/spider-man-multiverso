@@ -184,11 +184,25 @@ body[id^="spider-man-"] .card:not(.card--hovered) {
 }
 
 @media (max-width: 750px) {
+  .menu__item {
+    width: 10%;
+  }
   .container {
     padding-top: 60px;
   }
-
   .card {
     height: 55vh;
+  }
+}
+
+@media (max-width: 500px) {
+
+  .menu__item {
+    width: 8%;
+    margin: 0 1.4rem;
+  }
+  .menu__icon {
+    width: 2.5rem;
+    margin: 0.1rem;
   }
 }
