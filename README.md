@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com a intenção de aprimorar as habilidades nas t
 - Marcação HTML5 semântica
 - Javascript
 - Propriedades personalizadas de CSS avançado.
-- 
+
 
 ## Links
 URL do site ao vivo: https://christiancordeiro.github.io/spider-man-multiverso/index.html
